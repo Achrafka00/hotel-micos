@@ -51,7 +51,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/hotel_project.git
+   git clone https://github.com/your-repo/hotel-micos.git
    cd hotel_project
 2. Install dependencies:
     composer install
